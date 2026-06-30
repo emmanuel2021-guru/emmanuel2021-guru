@@ -2,7 +2,7 @@
 
 **Software & AI Infrastructure Engineer | ALX Back-End Certified | Claude AI Hackathon Winner**
 
-I am a backend-focused software engineer passionate about building scalable, offline-first systems for emerging markets. When financial barriers prevented me from pursuing my Mechanical Engineering admission at the University of Lagos, I refused to let that dictate my intellectual ceiling. I pivoted entirely to software, completed a rigorous 12-month engineering program at ALX Africa, and recently won a university-level Claude AI Hackathon. 
+I am a backend-focused software engineer passionate about building scalable, offline-first systems for emerging markets. I completed a rigorous 12-month engineering program at ALX Africa, and recently won a university-level Claude AI Hackathon. 
 
 I don't just write code; I engineer solutions that remove barriers.
 
