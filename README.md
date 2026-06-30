@@ -4,6 +4,8 @@
 
 I am a backend-focused software engineer passionate about building scalable, offline-first systems for emerging markets. I completed a rigorous 12-month engineering program at ALX Africa, and recently won a university-level Claude AI Hackathon. 
 
+Currently balancing my 300-level Mechanical Engineering coursework with building scalable tech. My GitHub contribution graph reflects highly concentrated, intensive build-sprints during my nights, weekends, and academic breaks.
+
 I don't just write code; I engineer solutions that remove barriers.
 
 ### 🚀 What I'm Doing Right Now
